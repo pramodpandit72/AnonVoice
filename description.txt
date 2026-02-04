@@ -1,0 +1,185 @@
+hii, i am a btech cse student:
+i want a project for my cv using mern:
+The project will have features:
+people can make account and write any post:
+that post should have like, dislike,comment, share, repost option should be their:
+people will use email to make account and this platform will anonymous no body will no about any one username will show so that no one can track them:
+they can tell about any government but government will not who tell about them
+
+
+
+
+Hii 👋
+This is actually a strong idea for a MERN CV project—if you frame it correctly and keep it ethical + legal. Let’s turn it into something impressive, safe, and interview-ready 🚀
+
+🔥 Project Idea (CV-Ready)
+Project Name (you can pick one):
+
+AnonVoice
+
+WhisperNet
+
+CivicSpeak
+
+SilentTruth
+
+Tagline:
+
+An anonymous social platform for expressing opinions without fear.
+
+🎯 Core Concept (What interviewers should understand)
+
+A fully anonymous social media platform where users can:
+
+Register using email (for authentication only)
+
+Post opinions anonymously
+
+Like, dislike, repost, and share posts
+
+Remain untraceable to other users
+
+Platform does not display real identity publicly
+
+⚠️ Important framing:
+You are NOT hiding criminals.
+You are building privacy-first communication, similar to Reddit / Blind / NGL.
+
+🧠 Key Features (Exactly What You Asked For)
+👤 Authentication
+
+Email + password signup
+
+Email verification (optional but 🔥 for CV)
+
+No public profile info (no name, no bio)
+
+🕵️‍♂️ Anonymity Layer
+
+Each user gets:
+
+Random generated username (e.g., user_9xA21)
+
+Email is never exposed
+
+User IDs are hashed internally
+
+📝 Posts
+
+Text-based posts (later you can add images)
+
+Categories:
+
+Politics
+
+Government policies
+
+Education
+
+Social issues
+
+Timestamp
+
+Anonymous author tag only
+
+👍 Engagement System
+
+Each post supports:
+
+Like
+
+Dislike
+
+Repost
+
+Share (copy link / social preview)
+
+🔁 Repost System
+
+Reposting keeps original content
+
+Shows repost count
+
+Credits original post (but still anonymous)
+
+🛡️ Safety & Moderation (VERY IMPORTANT)
+
+Report post option
+
+Auto profanity filter
+
+Admin dashboard (for moderation)
+
+🧱 Tech Stack (MERN)
+Frontend (React)
+
+React + Vite
+
+Tailwind CSS
+
+Axios
+
+JWT handling
+
+Infinite scroll feed
+
+Backend (Node + Express)
+
+REST API
+
+JWT authentication
+
+Rate limiting (avoid spam)
+
+Content moderation logic
+
+Database (MongoDB)
+
+Key Collections:
+
+Users
+Posts
+Reactions
+Reposts
+Reports
+
+Security
+
+Password hashing (bcrypt)
+
+JWT tokens
+
+Helmet + CORS
+
+IP masking logic (optional advanced feature)
+
+
+
+🗂️ Database Design (Interview Gold)
+User Schema
+{
+  _id,
+  email,
+  passwordHash,
+  anonymousUsername,
+  createdAt
+}
+
+Post Schema
+{
+  _id,
+  content,
+  authorId,
+  likes,
+  dislikes,
+  comment,
+  repostCount,
+  createdAt
+}
+
+Reaction Schema
+{
+  userId,
+  postId,
+  type: "like" | "dislike"
+}

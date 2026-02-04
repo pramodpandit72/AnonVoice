@@ -1,0 +1,78 @@
+hii, i am a btech cse student:
+i want a project for my cv using mern:
+The project will have features:
+people can make account and write any post:
+that post should have like, dislike, comment, share, repost option should be their:
+people will use email to make account and this platform will anonymous no body
+will no about any one username will show so that no one can track them:
+they can tell about any government but government will not who tell about them
+
+
+
+Project Name (you can pick one):
+
+AnonVoice
+
+WhisperNet
+
+CivicSpeak
+
+SilentTruth
+
+Tagline:
+
+An anonymous social platform for expressing opinions without fear.
+
+
+“An anonymous discussion platform that allows users to share opinions
+on public policies and institutions while preserving privacy.”
+
+
+
+
+
+
+
+
+
+
+🧠 How You Handle “Government Won’t Know Who Posted”
+
+⚠️ VERY IMPORTANT for interviews
+
+You should say this 👇 (exact wording you can use):
+
+“The platform ensures user anonymity at the application level.
+Emails are stored securely for authentication only and never exposed publicly.
+The platform does not claim legal immunity but focuses on privacy-first design.”
+
+✅ This shows maturity
+❌ Don’t claim “even government can’t trace” — that’s risky
+
+🚀 Advanced Features (Add 1–2 = Big CV Boost)
+
+🔐 End-to-End encryption (bonus)
+
+🤖 AI toxic content detection
+
+📊 Trending topics
+
+🌐 Anonymous polls
+
+⏱️ Auto-delete posts after X days
+
+🧾 Zero-log policy (theoretical)
+
+📌 Resume Description (You Can Copy This)
+
+Anonymous Social Media Platform (MERN Stack)
+
+Built a privacy-first social media platform enabling anonymous expression
+
+Implemented JWT authentication and hashed credential storage
+
+Designed like, dislike, repost, and sharing mechanisms
+
+Focused on user anonymity and secure content handling
+
+Tech: React, Node.js, Express, MongoDB, JWT, Tailwind CSS
