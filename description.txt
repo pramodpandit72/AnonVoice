@@ -7,23 +7,11 @@ people will use email to make account and this platform will anonymous no body w
 they can tell about any government but government will not who tell about them
 
 
-
-
 Hii 👋
 This is actually a strong idea for a MERN CV project—if you frame it correctly and keep it ethical + legal. Let’s turn it into something impressive, safe, and interview-ready 🚀
 
 🔥 Project Idea (CV-Ready)
-Project Name (you can pick one):
-
-AnonVoice
-
-WhisperNet
-
-CivicSpeak
-
-SilentTruth
-
-Tagline:
+Project Name: AnonVoice
 
 An anonymous social platform for expressing opinions without fear.
 
@@ -183,3 +171,9 @@ Reaction Schema
   postId,
   type: "like" | "dislike"
 }
+
+
+
+--> The Frontend should look professional like reddit website 
+with light and dark mode toggle button on navbar use https://fontawesome.com/ 
+for icons 
